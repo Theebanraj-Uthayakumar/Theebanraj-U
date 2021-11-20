@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Theebanraj-U/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Theebanraj-U/static/js/main.82e6858a.chunk.js",
+    "main.js.map": "/Theebanraj-U/static/js/main.82e6858a.chunk.js.map",
+    "runtime-main.js": "/Theebanraj-U/static/js/runtime-main.6ba2c76d.js",
+    "runtime-main.js.map": "/Theebanraj-U/static/js/runtime-main.6ba2c76d.js.map",
+    "static/js/2.a77dba2a.chunk.js": "/Theebanraj-U/static/js/2.a77dba2a.chunk.js",
+    "static/js/2.a77dba2a.chunk.js.map": "/Theebanraj-U/static/js/2.a77dba2a.chunk.js.map",
+    "static/js/3.0590fb8b.chunk.js": "/Theebanraj-U/static/js/3.0590fb8b.chunk.js",
+    "static/js/3.0590fb8b.chunk.js.map": "/Theebanraj-U/static/js/3.0590fb8b.chunk.js.map",
+    "index.html": "/Theebanraj-U/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Theebanraj-U/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a77dba2a.chunk.js.LICENSE.txt": "/Theebanraj-U/static/js/2.a77dba2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba2c76d.js",
+    "static/js/2.a77dba2a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.82e6858a.chunk.js"
+  ]
+}
